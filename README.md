@@ -17,7 +17,8 @@ Servidor tsx com o prisma
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&labelColor=00599C&textColor=00599C)&nbsp;
 
 ### Tools:
 
@@ -26,15 +27,21 @@ Servidor tsx com o prisma
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&labelColor=FCC624&logoColor=000000)&nbsp;
+![Chromebook](https://img.shields.io/badge/-Chromebook-4285F4?style=for-the-badge&logo=googlechrome&labelColor=4285F4&logoColor=ffffff)&nbsp;
+![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github)&nbsp;
+![npm](https://img.shields.io/npm/v/npm.svg?logo=npm)&nbsp;
+![GitHub Students](https://img.shields.io/badge/GitHub-Students-181717?style=for-the-badge&logo=github)&nbsp;
+
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 
@@ -48,6 +55,6 @@ Servidor tsx com o prisma
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>\*\*\*\*3
 
-
 # Prisma1
+
 # Prisma1
